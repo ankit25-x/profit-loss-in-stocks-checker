@@ -1,0 +1,40 @@
+label{
+display: block;
+}
+*{
+  font-family: 'Lato',
+  sans-serif;
+}
+
+
+body{
+  text-align: center;
+  padding: 0.5rem 1rem;
+  background-color: green;
+  color: white;
+  border: 1px solid white;
+
+}
+
+input{
+  padding: 1rem;
+  width: 45%;
+  margin: 1rem;
+  border-radius: 0.5rem
+ 
+}
+
+button{
+  padding: 1rem;
+  border-radius: 0.5rem;
+  margin: 1rem;
+  color: green;
+  font-weight: bolder;
+   
+}
+
+#output-box{
+  padding: 1rem;
+  font-size: larger;
+  font-weight: bold;
+}
